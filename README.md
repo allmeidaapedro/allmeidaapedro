@@ -24,3 +24,13 @@
 📫 How to reach me:
   - 📩 E-mail: pedrooalmeida.net@gmail.com
   - 🔗LikedIn: www.linkedin.com/in/pedro-henrique-almeida-oliveira-650b1b219
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pedro-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Pedro-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Pedro-Mpl" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+  <img align="center" alt="Pedro-Sns" height="30" width="40" src="https://user-images.githubusercontent.com/104145773/171375260-c711bda4-ff6d-4693-9a91-b234744f13ad.svg">
+<img align="center" alt="Pedro-Sklearn" height="30" width="40" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png">
+  <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+</div>
