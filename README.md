@@ -24,3 +24,6 @@
 📫 How to reach me:
   - 📩 E-mail: pedrooalmeida.net@gmail.com
   - 🔗LikedIn: www.linkedin.com/in/pedro-henrique-almeida-oliveira-650b1b219
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
