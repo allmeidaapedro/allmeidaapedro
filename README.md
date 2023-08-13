@@ -22,8 +22,8 @@
 
 ## Contact me 🌎
 📫 How to reach me:
-  - 📩 E-mail: pedrooalmeida.net@gmail.com
-  - 🔗LikedIn: www.linkedin.com/in/pedro-henrique-almeida-oliveira-650b1b219
+  - <img align="center" alt="Pedro-Gmail" height="10" width="15" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"> E-mail: pedrooalmeida.net@gmail.com
+ - <img align="center" alt="Pedro-Linkedin" height="15" width="20" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/linkedin.svg">LinkedIn: www.linkedin.com/in/pedro-henrique-almeida-oliveira-650b1b219
 
 ## 
 <div style="display: inline_block"><br>
