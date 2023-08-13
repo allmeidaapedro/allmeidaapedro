@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**allmeidaapedro/allmeidaapedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 My name is Pedro Almeida. I am from Brazil and I am 20 years old. Currently, I am a B.Sc. student majoring in Computer Engineering at the Federal University of Brasília.
 
-Here are some ideas to get you started:
+📘 I am passionate about machine learning, data science, and math. I have been working on projects in this area, constantly studying and striving to enhance my knowledge and skills. Check them out in my repositories; I'm sure you will find them interesting!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 🌟
+
+💻Hard Skills:
+  - Python (scikit-learn, pandas, numpy, matplotlib, seaborn, statsmodels and so on)
+  - SQL
+  - Machine Learning (supervised and unsupervised models)
+  - Statistics (descriptive and fundamental inferential concepts) and advanced mathematics (calculus, including teaching experience at the Federal University of Brasília)
+
+🙅‍♂️Soft Skills:
+  - Self-taught learner
+  - Communicative
+  - Teamwork
+  - Quick learner
+  - Enthusiasm
+
+## Contact me 🌎
+📫 How to reach me:
+  -  E-mail: pedrooalmeida.net@gmail.com
+  -  LikedIn: www.linkedin.com/in/pedro-henrique-almeida-oliveira-650b1b219
