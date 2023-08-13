@@ -11,6 +11,7 @@
   - SQL
   - Machine Learning (supervised and unsupervised models)
   - Statistics (descriptive and fundamental inferential concepts) and advanced mathematics (calculus, including teaching experience at the Federal University of Brasília)
+  - Fluent in Portuguese and intermediate in English.
 
 🙅‍♂️Soft Skills:
   - Self-taught learner
@@ -21,5 +22,5 @@
 
 ## Contact me 🌎
 📫 How to reach me:
-  -  E-mail: pedrooalmeida.net@gmail.com
-  -  LikedIn: www.linkedin.com/in/pedro-henrique-almeida-oliveira-650b1b219
+  - 📩 E-mail: pedrooalmeida.net@gmail.com
+  - 🔗LikedIn: www.linkedin.com/in/pedro-henrique-almeida-oliveira-650b1b219
