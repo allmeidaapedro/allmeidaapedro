@@ -12,7 +12,7 @@
   - Machine Learning (supervised and unsupervised models)
   - Statistics (descriptive and fundamental inferential concepts) and advanced mathematics (calculus, including teaching experience at the Federal University of Brasília)
   - Git and GitHub (version control)
-  - Fluent in Portuguese and intermediate in English.
+  - Fluent in Portuguese and intermediate in English (great reading, listening and writing).
 
 🙅‍♂️Soft Skills:
   - Self-taught learner
