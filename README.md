@@ -25,7 +25,9 @@
 
 <b>1. Credit Card Churn Prediction: </b>This is an end-to-end machine learning project (from data collection to deploy) that utilizes XGBoost to predict customer's probability of churning in a bank's credit card service. Identifying likely churners helps plan strategies for retention, maintaining healthy revenue. Acquiring a new customer is costlier than keeping one. The main objectives were: Identify the factors associated with customer churn; construct a model capable of predicting as many potential churners as possible; offer action plans for the bank to reduce credit card customer churn. Finally, it was possible to achieve an estimated gain of $198,098.82 by calculating the difference between the true positive gain, the cost of retaining false positives and the cost of false negatives churning.
 
-<img src="https://github.com/allmeidaapedro/Churn-Prediction-Credit-Card/blob/main/images/web_app_2.jpeg">
+<img src="https://github.com/allmeidaapedro/Churn-Prediction-Credit-Card/blob/main/images/web_app_2.jpeg" width=800px height=300px>
+
+<b>2. German Bank's Credit Scoring: </b>
 
 ## Contact me 🌎
 📫 How to reach me:
