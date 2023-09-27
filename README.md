@@ -27,7 +27,13 @@
 
 <img src="https://github.com/allmeidaapedro/Churn-Prediction-Credit-Card/blob/main/images/web_app_2.jpeg" width=800px height=300px>
 
-<b>2. German Bank's Credit Scoring: </b>
+<b>2. German Bank's Credit Scoring: </b>This is an end-to-end machine learning project (from data collection to deploy) that uses Random Forest to assign credit scores to potential customers of a German bank. By doing so, it can make informed decisions, protecting return on equity (ROE) while minimizing credit risk. The main objectives were: Identify the factors associated with credit risk in the form of business insights; offer suggestions for the bank to minimize credit risk in its operations; construct a model capable of accurately predicting the probability of a customer defaulting on a loan, assigning a credit score to him. In order to achieve this, ROC-AUC was the metric of interest. Moreover, I estimated financial results calculating ROE using the expected revenue from non-defaulters' loans, the expected loss from defaulters' loans, and the total credit amount lent before the solution and after changing the bank's credit policy from my credit scoring model. Finally, after extending credit only to customers with a credit score of 6 or higher, the ROE increased from 9.55% to 42.64%.
+
+<img src="https://github.com/allmeidaapedro/Credit-Scoring-German-Bank/blob/main/images/predict_page_webapp.jpeg" width=800px height=300px>
+
+<b>3. Retail Store's Customer Segmentation and Profiling: </b> In this project, I performed an unsupervised learning clustering task using K-Means on unlabeled training data to segment and profile customers for a retail store. After segmenting the clients, a loyalty program called "Prosperous" was developed based on the profile of our best customers, the Prosperous ones. Moreover, by utilizing techniques such as dimensionality reduction and silhouette score analysis for model comparison and cluster definition, I was able to effectively segment the clientele into five groups, creating distinct personas. Finally, a financial estimate was made. The loyalty program has the potential to increase the total store revenue by 9%, amounting to $125,228.55. Therefore, the project is worthwhile.
+
+<img src="https://github.com/allmeidaapedro/Customer-Segmentation-Retail/blob/main/reports/cseg.png">
 
 ## Contact me 🌎
 📫 How to reach me:
