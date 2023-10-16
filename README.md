@@ -7,7 +7,7 @@
 ## Skills 🌟
 
 💻Hard Skills:
-  - Python (scikit-learn, pandas, numpy, matplotlib, seaborn, statsmodels and so on)
+  - Python (scikit-learn, pandas, numpy, matplotlib, seaborn, statsmodels, flask, virtual environments and so on)
   - SQL
   - Machine Learning (supervised and unsupervised models for classification, regression and clustering)
   - Statistics (descriptive and inferential) and advanced mathematics (calculus, including teaching experience at the Federal University of Brasília)
