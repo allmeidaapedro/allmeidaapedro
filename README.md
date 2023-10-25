@@ -35,8 +35,8 @@ Below I describe the main data science projects I developed until the present mo
 
 ## Contact me 🌎
 📫 How to reach me:
-  - <img align="center" alt="Pedro-Gmail" height="10" width="15" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"> E-mail: pedrooalmeida.net@gmail.com
- - <img align="center" alt="Pedro-Linkedin" height="15" width="20" src="https://github.com/dheereshagrwal/colored-icons/blob/master/svg/linkedin.svg">LinkedIn: www.linkedin.com/in/pedro-henrique-almeida-oliveira-77b44b237
+  - E-mail: pedrooalmeida.net@gmail.com
+ - LinkedIn: www.linkedin.com/in/pedro-henrique-almeida-oliveira-77b44b237
 ## 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
