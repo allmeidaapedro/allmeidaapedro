@@ -7,13 +7,14 @@
 ## Skills 🌟
 
 💻Hard Skills:
-  - Python (scikit-learn, pandas, numpy, matplotlib, seaborn, statsmodels, flask, virtual environments and so on)
-  - SQL
+  - Python (Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Statsmodels, Flask, Virtual Envs, and so on)
+  - SQL and databases
   - Machine Learning (supervised and unsupervised models for classification, regression and clustering)
-  - Statistics (descriptive and inferential) and advanced mathematics (calculus, including teaching experience at the Federal University of Brasília)
+  - Probability, Statistics (descriptive and inferential) and advanced mathematics (calculus, including teaching experience at the Federal University of Brasília)
   - Git and GitHub (version control)
-  - Fluent in Portuguese and intermediate in English (great reading, listening and writing).
-  - Agile methods (Scrum and Kanban).
+  - Fluent in Portuguese and advanced in English (great reading, listening and writing)
+  - Agile methods (Scrum and Kanban)
+  - Data visualization, data preparation, statistical/predictive modelling
 
 🙅‍♂️Soft Skills:
   - Self-taught learner
@@ -21,6 +22,7 @@
   - Teamwork
   - Quick learner
   - Enthusiasm
+  - Result oriented
 
 ## Main data science projects
 Below I describe the main data science projects I developed until the present moment. These projects represent an end-to-end framework (from data collection to deploy in a Flask web app), focused on resolving the business problem, result oriented, and following as much as possible a real data science workflow. In order to achieve this, I adopt practices like virtual environment use (isolating dependencies), exception handling, loggings, documentation (every script/function/class purposes and definitions are defined inside the files), etc. Finally, all the documentation containing the pipeline used, results and the explanation of each decision made is present in the readme files or first pages.
