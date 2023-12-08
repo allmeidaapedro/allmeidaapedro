@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-👨‍💻 My name is Pedro Almeida. I am from Brazil and I am 20 years old. Currently, I am a B.Sc. student majoring in Computer Engineering at the Federal University of Brasília.
-
-📘 I am passionate about machine learning, data science, and math. I have been working on projects in this area, constantly studying and striving to enhance my knowledge and skills. Check them out in my repositories; I'm sure you will find them interesting!
+👨‍💻 I'm Pedro Almeida from Brazil, a 20-year-old B.Sc. student majoring in Computer Engineering at the Federal University of Brasília. Currently, I'm working as a quantitative analyst intern at Disrux and Arthur Mining. In this role, I conduct quantitative analysis in various financial market areas, including crypto, blockchain, and investment. I apply data analysis, visualization, and storytelling using Python and statistical methods. Additionally, I actively contribute to my team by developing tools, solutions, and machine learning models to enhance market analysis. My enthusiasm lies in machine learning, data science, and mathematics, and I'm constantly working on projects in these areas. Explore them below in my data science portfolio!
 
 ## Skills 🌟
 
@@ -24,16 +22,11 @@
   - Enthusiasm
   - Result oriented
 
-## Main data science projects
-Below I describe the main data science projects I developed until the present moment. These projects represent an end-to-end framework (from data collection to deploy in a Flask web app), focused on resolving the business problem, result oriented, and following as much as possible a real data science workflow. In order to achieve this, I adopt practices like virtual environment use (isolating dependencies), exception handling, loggings, documentation (every script/function/class purposes and definitions are defined inside the files), etc. Finally, all the documentation containing the pipeline used, results and the explanation of each decision made is present in the readme files or first pages.
+### [**Data Science Portfolio**](https://github.com/allmeidaapedro/Data-Science-Porfolio)
+- Check out my data science portfolio. There, you will find solved business cases involving machine learning classification, regression, and clustering, as well as exploratory data analysis and other projects within the data environment.
+- [Click here to see my data science portfolio](https://github.com/allmeidaapedro/Data-Science-Porfolio)
 
-<b>1. Credit Card Churn Prediction: </b>This is an end-to-end machine learning project (from data collection to deploy) that utilizes XGBoost to predict customer's probability of churning in a bank's credit card service. Identifying likely churners helps plan strategies for retention, maintaining healthy revenue. Acquiring a new customer is costlier than keeping one. The main objectives were: Identify the factors associated with customer churn; construct a model capable of predicting as many potential churners as possible; offer action plans for the bank to reduce credit card customer churn. Finally, it was possible to achieve an estimated gain of $198,098.82 by calculating the difference between the true positive gain, the cost of retaining false positives and the cost of false negatives churning. Link: https://github.com/allmeidaapedro/Churn-Prediction-Credit-Card
-
-<b>2. German Bank's Credit Scoring: </b>This is an end-to-end machine learning project (from data collection to deploy) that uses Random Forest to assign credit scores to potential customers of a German bank. By doing so, it can make informed decisions, protecting Return on Investment (ROI) while minimizing credit risk. The main objectives were: Identify the factors associated with credit risk in the form of business insights; offer suggestions for the bank to minimize credit risk in its operations; construct a model capable of accurately predicting the probability of a customer defaulting on a loan, assigning a credit score to him. In order to achieve this, ROC-AUC was the metric of interest. Moreover, I estimated financial results calculating ROI using the expected revenue from non-defaulters' loans, the expected loss from defaulters' loans, and the total credit amount lent before the solution and after changing the bank's credit policy from my credit scoring model. Finally, after extending credit only to customers with a credit score of 600 or higher, the ROI increased from 9.55% to 42.64%. Link: https://github.com/allmeidaapedro/Credit-Scoring-German-Bank
-
-<b>3. Retail Store's Customer Segmentation and Profiling: </b> In this project, I performed an unsupervised learning clustering task using K-Means on unlabeled training data to segment and profile customers for a retail store. After segmenting the clients, a loyalty program called "Prosperous" was developed based on the profile of our best customers, the Prosperous ones. Moreover, by utilizing techniques such as dimensionality reduction and silhouette score analysis for model comparison and cluster definition, I was able to effectively segment the clientele into five groups, creating distinct personas. Finally, a financial estimate was made. The loyalty program has the potential to increase the total store revenue by 9%, amounting to $125,228.55. Therefore, the project is worthwhile. Link: https://github.com/allmeidaapedro/Customer-Segmentation-Retail
-
-<b>4. Store Item Demand Forecasting: </b> In this project, I performed time series forecasting using LightGBM to predict sales for 50 items across 10 different stores in a 3-month period. By doing this, the company will be able to strategically manage inventory and allocate resources effectively, maximizing overall revenue and profit. The financial result per store, per store and item and for the total company is present inside the project. Link: https://github.com/allmeidaapedro/Store-Item-Demand-Forecasting
+<img src="https://media.licdn.com/dms/image/D4D16AQHZGVFEr_QPhw/profile-displaybackgroundimage-shrink_350_1400/0/1699306605481?e=1707350400&v=beta&t=5YfX2xDtcZWx_1ecAWAplMM2Up6rD9s1Rz433lwgRgk"
 
 ## Contact me 🌎
 📫 How to reach me:
