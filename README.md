@@ -8,26 +8,6 @@
 
 <img src="https://media.licdn.com/dms/image/D4D16AQHZGVFEr_QPhw/profile-displaybackgroundimage-shrink_350_1400/0/1699306605481?e=1707350400&v=beta&t=5YfX2xDtcZWx_1ecAWAplMM2Up6rD9s1Rz433lwgRgk">
 
-## Skills 🌟
-
-💻Hard Skills:
-  - Python (Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Statsmodels, Flask, Virtual Envs, and so on)
-  - SQL and databases
-  - Machine Learning (supervised and unsupervised models for classification, regression and clustering)
-  - Probability, Statistics (descriptive and inferential) and advanced mathematics (calculus, including teaching experience at the Federal University of Brasília)
-  - Git and GitHub (version control)
-  - Fluent in Portuguese and advanced in English (great reading, listening and writing)
-  - Agile methods (Scrum and Kanban)
-  - Data visualization, data preparation, statistical/predictive modelling
-
-🙅‍♂️Soft Skills:
-  - Self-taught learner
-  - Communicative
-  - Teamwork
-  - Quick learner
-  - Enthusiasm
-  - Result oriented
-
 ## Contact me 🌎
 **Find me:**
 * [LinkedIn](https://www.linkedin.com/in/pedro-henrique-almeida-oliveira-77b44b237/)  
