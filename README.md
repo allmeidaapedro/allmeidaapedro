@@ -6,8 +6,8 @@
 ## [**Data Science Portfolio**](https://github.com/allmeidaapedro/Data-Science-Porfolio) :game_die:
 
 - Check out my data science portfolio. There, you will find solved business cases involving machine learning classification, regression, and clustering, as well as exploratory data analysis and other projects within the data environment.
-- [Click here to see my data science portfolio (EN :us:)](https://github.com/allmeidaapedro/Data-Science-Porfolio)
-- [Click here to see my data science portfolio (PT :brazil:)](https://github.com/allmeidaapedro/Portfolio-Ciencia-de-Dados)
+- [Click here to see my data science portfolio (EN)](https://github.com/allmeidaapedro/Data-Science-Porfolio)
+- [Click here to see my data science portfolio (PT)](https://github.com/allmeidaapedro/Portfolio-Ciencia-de-Dados)
 
 <img src="https://media.licdn.com/dms/image/D4D16AQHZGVFEr_QPhw/profile-displaybackgroundimage-shrink_350_1400/0/1699306605481?e=1707350400&v=beta&t=5YfX2xDtcZWx_1ecAWAplMM2Up6rD9s1Rz433lwgRgk">
 
