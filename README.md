@@ -26,12 +26,14 @@
 - Check out my data science portfolio. There, you will find solved business cases involving machine learning classification, regression, and clustering, as well as exploratory data analysis and other projects within the data environment.
 - [Click here to see my data science portfolio](https://github.com/allmeidaapedro/Data-Science-Porfolio)
 
-<img src="https://media.licdn.com/dms/image/D4D16AQHZGVFEr_QPhw/profile-displaybackgroundimage-shrink_350_1400/0/1699306605481?e=1707350400&v=beta&t=5YfX2xDtcZWx_1ecAWAplMM2Up6rD9s1Rz433lwgRgk"
+<img src="https://media.licdn.com/dms/image/D4D16AQHZGVFEr_QPhw/profile-displaybackgroundimage-shrink_350_1400/0/1699306605481?e=1707350400&v=beta&t=5YfX2xDtcZWx_1ecAWAplMM2Up6rD9s1Rz433lwgRgk">
 
 ## Contact me 🌎
-📫 How to reach me:
-  - E-mail: pedrooalmeida.net@gmail.com
- - LinkedIn: www.linkedin.com/in/pedro-henrique-almeida-oliveira-77b44b237
+**Find me:**
+* [LinkedIn](https://www.linkedin.com/in/pedro-henrique-almeida-oliveira-77b44b237/)  
+* [GitHub](https://github.com/allmeidaapedro)
+* [E-mail](pedrooalmeida.net@gmail.com)
+* 
 ## 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
