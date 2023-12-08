@@ -11,7 +11,6 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQHZGVFEr_QPhw/profile-displaybackgroundimage-shrink_350_1400/0/1699306605481?e=1707350400&v=beta&t=5YfX2xDtcZWx_1ecAWAplMM2Up6rD9s1Rz433lwgRgk">
 
 ## Contact me 🌍
-**Find me:**
 * [LinkedIn](https://www.linkedin.com/in/pedro-henrique-almeida-oliveira-77b44b237/)  
 * [GitHub](https://github.com/allmeidaapedro)
 * [E-mail](pedrooalmeida.net@gmail.com)
