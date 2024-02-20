@@ -13,6 +13,6 @@
 <img src="https://github.com/allmeidaapedro/Portfolio-Ciencia-de-Dados/blob/main/images/welcome.jpg">
 
 ## Contact me 🌍
-* [LinkedIn](https://www.linkedin.com/in/pedro-henrique-almeida-oliveira-77b44b237/)  
+* [LinkedIn](www.linkedin.com/in/pedro-almeida-ds)  
 * [GitHub](https://github.com/allmeidaapedro)
 * [E-mail](pedrooalmeida.net@gmail.com)
