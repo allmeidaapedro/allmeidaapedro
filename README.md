@@ -10,7 +10,7 @@
 - [Click here to see my data science portfolio (EN)](https://github.com/allmeidaapedro/Data-Science-Porfolio)
 - [Click here to see my data science portfolio (PT)](https://github.com/allmeidaapedro/Portfolio-Ciencia-de-Dados)
 
-<img src="https://github.com/allmeidaapedro/Portfolio-Ciencia-de-Dados/blob/main/images/welcome.jpg">
+<img src="https://github.com/allmeidaapedro/Portfolio-Ciencia-de-Dados/blob/main/images/Black%20Modern%20Personal%20LinkedIn%20Banner.png">
 
 ## Contact me 🌍
 * [LinkedIn](https://www.linkedin.com/in/pedro-almeida-ds/)  
