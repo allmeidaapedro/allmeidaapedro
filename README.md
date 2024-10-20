@@ -1,8 +1,8 @@
 ## Hi there 🙋🏻
 
-- 👨‍💻 I'm Pedro Almeida from Brazil, a 20-year-old B.Sc. student majoring in Computer Engineering at the Federal University of Brasília. Currently, I'm working as a Data Scientist Intern at Kinea Investimentos (Itaú).
-- 🤩 My enthusiasm lies in machine learning, data science, statistics, and mathematics, and I'm constantly working on projects in these areas. Explore them in my data science portfolio below!
-- 📚 My hard skills include Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, virtual environments, Flask), SQL, Machine Learning (classification, regression, clustering, and time series), Git and Github (code versioning), and Statistics. My soft skills encompass self-directed learning, effective communication, teamwork, quick adaptability, enthusiasm, and a results-oriented approach.
+- 👨‍💻 I'm Pedro Almeida from Brazil, a 21-year-old B.Sc. student majoring in Computer Engineering at the Federal University of Brasília. Currently, I'm working as a Data Scientist Intern at Kinea Investimentos (Itaú).
+- 🤩 My enthusiasm lies in machine learning, generative AI, statistics, and MLOPS, and I'm constantly working on projects in these areas. Explore them in my data science portfolio below!
+- 📚 My hard skills include Python (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, virtual environments, Flask), SQL, Machine Learning (classification, regression, clustering, and time series), Generative AI (RAG, summarization, sentiment analysis, prompt engineering), Databricks, Azure, Pyspark, Git and Github (code versioning), and Statistics (descriptive and inferential). My soft skills encompass self-directed learning, effective communication, teamwork, quick adaptability, enthusiasm, and a results-oriented approach.
 
 ## [**Data Science Portfolio**](https://github.com/allmeidaapedro/Data-Science-Porfolio) :game_die:
 
