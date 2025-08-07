@@ -1,6 +1,6 @@
 ## Hi there 🙋🏻
 
-- 👨‍💻 I'm Pedro Almeida from Brazil, a 21-year-old B.Sc. student majoring in Computer Engineering at the Federal University of Brasília. Currently, I'm working as a Data Scientist at Kinea Investimentos (Itaú).
+- 👨‍💻 I'm Pedro Almeida from Brazil, a 22-year-old B.Sc. student majoring in Computer Engineering at the Federal University of Brasília. Currently, I'm working as a Data Scientist at Banco do Brasil.
 - 🤩 My enthusiasm lies in machine learning, generative AI, statistics, and MLOPS, and I'm constantly working on projects in these areas. Explore them in my data science portfolio below!
 - 📚 My hard skills include Python (pandas, numpy, matplotlib, seaborn, scikit-learn, etc.), SQL, Machine Learning (classification, regression, clustering, and time series), Generative AI (RAG, prompt engineering, function calling, structured outputs, embeddings, vector databases, etc. - OpenAI, Gemini/VertexAI, Pydantic, Langchain, CrewAI), Databricks, Azure (Azure certified - AZ900), Pyspark, MLops and LLMops (MLflow, ci-cd, feature stores, model monitoring), Git and Github (code versioning), Statistics (descriptive and inferential). My soft skills encompass self-directed learning, effective communication, teamwork, quick adaptability, enthusiasm, and a results-oriented approach.
 - Specifically, I am highly interested and have experience with credit risk modeling and generative AI.
